@@ -1,5 +1,7 @@
 # Programming Languages
 
+![Cover](cover.jpg)
+
 Here are the best programming languages for each field; if multiple languages are listed, they are equally good.
 
 - **Servers**: Kotlin

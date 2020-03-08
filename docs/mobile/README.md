@@ -1,5 +1,7 @@
 # Mobile
 
+![Cover](cover.jpg)
+
 Since OSes such as Firefox OS and Windows 10 Mobile come and go in a matter of years (and are hardly used while they're there), we'll only consider Android and iOS.
 
 Here is every way you can make a mobile app. When I use the word _native_, I mean that it's been created using the officially recommended technologies (e.g., using Swift on iOS).

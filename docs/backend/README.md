@@ -1,6 +1,6 @@
 # Backend
 
-Backends should ideally use the following tech.
+![Cover](cover.jpg)
 
 ## Kotlin
 

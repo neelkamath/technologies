@@ -1,5 +1,7 @@
 # Web Frontends
 
+![Cover](cover.jpg)
+
 Here's an explanation of which tools are optimal for frontend web projects. Unlike higher level languages such as Python which allow you to be blissfully unaware of lower level implementations such as Assembly code generation, languages which compile down to JS are much more transparent. You will be required to know JS, and spend extra time (versus lesser time in truly higher level languages such as Python) when first introducing them into your project. This means that these leaky abstractions (e.g., languages which compile down to JS, frameworks such as React) quickly become dated, or worse than directly using new standards which inadvertently come up. Hence, you'll want to use fewer abstractions over vanilla HTML, CSS, and JavaScript since it ends up being overkill to configure, learn, and maintain the extra setup they require.
 
 ## Languages
